@@ -3,7 +3,7 @@
     "loading": "加載中..."
   },
   "Navigation": {
-    "title": "Chi-na.cn AI工具目錄",
+    "title": "AI.Chi-na.cn AI工具目錄",
     "discover": "發現AI",
     "submit": "提交",
     "newtools": "新工具",
@@ -11,7 +11,7 @@
     "menu": "菜單"
   },
   "Footer": {
-    "title": "Chi-na.cn AI工具目錄",
+    "title": "AI.Chi-na.cn AI工具目錄",
     "subTitle": "發現2024年最佳AI工具，盡在Chi-na.cn AI工具目錄！",
     "support": "支持",
     "Chi-na.cn": "Chi-na.cn AI",
@@ -23,13 +23,13 @@
   "Faq": {
     "title": "常見問題",
     "1": {
-      "question": "Chi-na.cn AI工具目錄是什麼？",
-      "answer": "Chi-na.cn AI工具目錄 - Chi-na.cn.ai正在建立一個AI工具目錄，幫助您獲取您喜愛的AI工具。您可以在這裡找到AI寫作工具、AI營銷工具、AI改寫工具、AI SEO工具、AI學習工具、AI生成工具、AI研究工具、AI藝術工具、AI音樂工具、AI視頻工具、AI編碼工具、AI照片工具等。"
+      "question": "AI.Chi-na.cn AI工具目錄是什麼？",
+      "answer": "AI.Chi-na.cn AI工具目錄 - Chi-na.cn.ai正在建立一個AI工具目錄，幫助您獲取您喜愛的AI工具。您可以在這裡找到AI寫作工具、AI營銷工具、AI改寫工具、AI SEO工具、AI學習工具、AI生成工具、AI研究工具、AI藝術工具、AI音樂工具、AI視頻工具、AI編碼工具、AI照片工具等。"
     },
     "2": {
-      "question": "如何在Chi-na.cn AI工具目錄中找到您的AI工具？",
+      "question": "如何在AI.Chi-na.cn AI工具目錄中找到您的AI工具？",
       "answer-1": "1. 打開Chi-na.cn.ai。",
-      "answer-2": "2. 在Chi-na.cn AI工具目錄中探索AI工具。",
+      "answer-2": "2. 在AI.Chi-na.cn AI工具目錄中探索AI工具。",
       "answer-3": "3. 點擊您需要的AI工具以獲取詳情並訪問它。"
     },
     "3": {
@@ -38,15 +38,15 @@
       "answer-2": "2. 創業公司列表：為AI工具開發者提供免費的創業公司列表。"
     },
     "4": {
-      "question": "提交AI工具到Chi-na.cn AI工具目錄是免費的嗎？",
+      "question": "提交AI工具到AI.Chi-na.cn AI工具目錄是免費的嗎？",
       "answer": "是的，目前是免費的。但您應該分享Chi-na.cn AI工具目錄的反向連結！"
     },
     "5": {
-      "question": "Chi-na.cn AI工具目錄支持哪些類別的AI工具？",
+      "question": "AI.Chi-na.cn AI工具目錄支持哪些類別的AI工具？",
       "answer": "我們將來會支持所有類型的AI工具。請稍候幾天。"
     },
     "6": {
-      "question": "Chi-na.cn AI目錄的AI工具更新頻率是多少？",
+      "question": "AI.Chi-na.cn AI目錄的AI工具更新頻率是多少？",
       "answer": "AI工具列表將每天更新。"
     },
     "7": {
@@ -58,15 +58,15 @@
       "answer": "如果內容未顯示，請嘗試使用其他瀏覽器，清除緩存。如果問題仍然存在，請通過contact@6677.ai聯繫我們。"
     },
     "9": {
-      "question": "Chi-na.cn AI目錄的內容是如何生成的？",
+      "question": "AI.Chi-na.cn AI目錄的內容是如何生成的？",
       "answer": "AI工具描述的內容由OpenAI的GPT-4o生成。"
     },
     "10": {
       "question": "AI工具的使用權限是什麼？",
-      "answer": "Chi-na.cn AI工具目錄只是AI工具的目錄。AI工具的使用權限基於AI工具的網站。"
+      "answer": "AI.Chi-na.cn AI工具目錄只是AI工具的目錄。AI工具的使用權限基於AI工具的網站。"
     },
     "11": {
-      "question": "Chi-na.cn AI目錄的Web界面是開源的嗎？",
+      "question": "AI.Chi-na.cn AI目錄的Web界面是開源的嗎？",
       "answer": "是的，我們將在github（https://github.com/6677-ai/Chi-na.cn-ai-webui）上開源Chi-na.cn AI目錄的Web界面。請給我們點贊。"
     }
   },
